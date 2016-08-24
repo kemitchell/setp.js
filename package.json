@@ -1,6 +1,6 @@
 {
   "name": "setp",
-  "description": "set a property, create parent objects as needed",
+  "description": "set a property, creating parent objects as needed",
   "version": "1.0.1",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "devDependencies": {
